@@ -1,0 +1,5 @@
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\bin\Release\ReleaseNoteWriter.exe.config
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\bin\Release\ReleaseNoteWriter.exe
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\bin\Release\ReleaseNoteWriter.pdb
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\obj\Release\ReleaseNoteWriter.exe
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\obj\Release\ReleaseNoteWriter.pdb

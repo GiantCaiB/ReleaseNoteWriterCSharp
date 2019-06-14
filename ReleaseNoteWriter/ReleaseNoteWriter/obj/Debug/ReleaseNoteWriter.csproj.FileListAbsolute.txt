@@ -1,0 +1,6 @@
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\bin\Debug\ReleaseNoteWriter.exe.config
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\bin\Debug\ReleaseNoteWriter.exe
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\bin\Debug\ReleaseNoteWriter.pdb
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\obj\Debug\ReleaseNoteWriter.csprojResolveAssemblyReference.cache
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\obj\Debug\ReleaseNoteWriter.exe
+C:\Users\yud\Desktop\Development\ReleaseNoteWriter\ReleaseNoteWriter\ReleaseNoteWriter\obj\Debug\ReleaseNoteWriter.pdb
